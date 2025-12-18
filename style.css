@@ -167,11 +167,5 @@ to {
   line-height: 1.6;
 }
 
-@media (max-width: 600px) {
 
-  .envelope {
-    transform: scale(0.75);
-  }
-
-}
 
